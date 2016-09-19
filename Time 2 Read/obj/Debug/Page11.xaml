@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Time_2_Read.Page11"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+        <Button x:ConnectionId='1' Name="star" Content="The Jewel of Stars"                     />
+        <Button x:ConnectionId='2' Name="wind" Content="Wind"                     />
+        <Button x:ConnectionId='3' Name="freedom" Content="Freedom"                        />
+        <Button x:ConnectionId='4' x:Name="order" Content="Order To The Mind"                       />
+        <Button x:ConnectionId='5' Name="fear" Content="There Is No Fear"                      />
+        <Button x:ConnectionId='6' Name="spark" Content="A Spark Of Fire"                      />
+        </StackPanel>
+    </Grid>
+</Page>
+

@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="Time_2_Read.Page16"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ScrollViewer>
+            <StackPanel>
+                <Button Content="Palanquin Bearers" Name="bear" Tapped="bear_Tapped"/>
+                <Button Name="bangle" Content="The Bangle Sellers" Tapped="bangle_Tapped"/>
+                <Button Name="love" Content="An Indian Love Story" Tapped="love_Tapped"/>
+                <Button Name="weav" Content="Indian Weavers" Tapped="weav_Tapped"/>
+                <Button Name="fish" Content="The Coromandel Fishers" Tapped="fish_Tapped"/>
+                <Button Name="street" Content="Street Cries" Tapped="street_Tapped"/>
+                <Button Name="pain" Content="To The God Of The Pain" Tapped="pain_Tapped"/>
+                <Button Name="singers" Content="Wandering Singers" Tapped="singers_Tapped"/>
+                <Button Name="autumn" Content="Autumn Songs" Tapped="autumn_Tapped"/>
+                <Button Name="cradle" Content="Cradle Song" Tapped="cradle_Tapped"/>
+                <Button Name="Night" Content="Night In The City Of Hyderabad" Tapped="Night_Tapped"/>
+                <Button Name="life" Content="Life" Tapped="life_Tapped"/>
+                <Button Name="india" Content="To India" Tapped="india_Tapped"/>
+                <Button Name="salut" Content="In Salutation To The Eternal Peace"/>
+                <Button Name="trans" Content="Transience" Tapped="trans_Tapped"/>
+                <Button Name="youth" Content="To Youth" Tapped="youth_Tapped"/>
+                <Button Name="dead" Content="My Dead Dream" Tapped="dead_Tapped"/>
+                <Button Name="ecstasy" Content="Ecstasy" Tapped="ecstasy_Tapped"/>
+                <Button Name="henna" Content="In Praise Of Henna" Tapped="henna_Tapped"/>
+                <Button Name="parda" Content="The Pardah Nashin" Tapped="parda_Tapped"/>
+                <Button Name="poet" Content="The Poet To Death" Tapped="poet_Tapped"/>
+                <Button Name="past" Content="Past And Future" Tapped="past_Tapped"/>
+                <Button Name="gypsy" Content="The Indian Gypsy" Tapped="gypsy_Tapped"/>
+                <Button Name="soul" Content="The Soul's Prayer" Tapped="soul_Tapped"/>
+
+
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

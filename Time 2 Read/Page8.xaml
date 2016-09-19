@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="Time_2_Read.Page8"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ScrollViewer>
+            <StackPanel Width="385">
+                <Button Name="mind" Content="Mind Without Fear" Width="380" Tapped="mind_Tapped" />
+                <Button Name="litle" Content="Little Flute" Tapped="litle_Tapped" Width="380"/>
+                <Button Name="purity" Content="Purity" Tapped="purity_Tapped" Width="380"/>
+                <Button Name="mom" Content="Moment's Indulgence" Tapped="mom_Tapped" Width="380"/>
+                <Button Name="flower" Content="Flower" Tapped="flower_Tapped" Width="380"/>
+                <Button Name="Fool" Content="Fool" Tapped="Fool_Tapped" Width="380"/>
+                <Button Name="Leave" Content="Leave This" Tapped="Leave_Tapped" Width="380"/>
+                <Button Name="del" Content="Deliverance" Tapped="del_Tapped" Width="380"/>
+                <Button Name="jou" Content="Journey Home" Tapped="jou_Tapped" Width="380"/>
+                <Button Name="song" Content="Song Unsung" Tapped="song_Tapped" Width="380"/>
+                <Button Name="mercy" Content="Strong Mercy" Tapped="mercy_Tapped" Width="380"/>
+                <Button Name="pat" Content="Patience" Tapped="pat_Tapped" Width="380"/>
+                <Button Name="fire" Content="Fire Flies" Tapped="fire_Tapped" Width="380"/>
+                <Button Name="sail" Content="Sail Away" Tapped="sail_Tapped" Width="380"/>
+                <Button Name="signet" Content="Signet of Eternity" Tapped="signet_Tapped" Width="380"/>
+                <Button Name="step" Content="Silent Steps" Tapped="step_Tapped" Width="380"/>
+                <Button Name="time" Content="Distant Time" Tapped="time_Tapped" Width="380"/>
+                <Button Name="toy" Content="Colored Toys" Tapped="toy_Tapped" Width="380"/>
+                <Button Name="she" Content="She" Tapped="she_Tapped" Width="380"/>
+                <Button Name="let" Content="Let Me Not Forget" Tapped="let_Tapped" Width="380"/>
+                <Button Name="last" Content="Last Curtain" Tapped="last_Tapped" Width="380"/>
+                
+
+
+
+
+
+
+            </StackPanel>
+        </ScrollViewer>  
+
+    </Grid>
+</Page>

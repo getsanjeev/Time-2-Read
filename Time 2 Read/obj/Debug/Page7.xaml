@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Time_2_Read.Page7"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="101*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Time 2 Read "  FontSize="20" Margin="19,10,55,89"/>
+        <TextBlock Text="People" FontSize="60" Margin="19,46,46,16" Width="380"/>
+        <Button x:Name="patel"  Content="Gieve Patel" Width="380" Margin="10,248,0,200" Grid.Row="1"/>
+        <Button x:Name="mehro" Content="A.K. Mehrortra"  Width="380" Margin="10,205,0,243" Grid.Row="1"/>
+        <Button x:Name="seth" Content="Vikram Seth"  Width="380" Margin="10,162,0,286" Grid.Row="1"/>
+        <Button x:Name="yets" Content="William Butler Yeats"  Width="380" Margin="10,119,0,329" Grid.Row="1"/>
+        <Button x:Name="kiplin" Content="Rudyard Kipling" Width="380"  Margin="10,76,0,372" Grid.Row="1"  />
+        <Button x:Name="milton" Content="John Milton" Width="380" Margin="10,33,0,415" Grid.Row="1"/>
+        <Button x:Name="jane" Content="Jane Austin" Width="380" Margin="10,125,0,458" Grid.RowSpan="2"/>
+        
+
+
+    </Grid>
+</Page>
+

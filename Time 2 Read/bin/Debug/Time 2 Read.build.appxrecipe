@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-LQDOVSL</Machine>
+    <WindowsUser>getsa</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a7091ad9-0032-4950-bd87-b444996568f0</PackageIdentityName>
+    <IntermediateOutputPath>F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.exe">
+      <PackagePath>Time 2 Read.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\106.jpg">
+      <PackagePath>Assets\106.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\170.jpg">
+      <PackagePath>Assets\170.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\360.jpg">
+      <PackagePath>Assets\360.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\744.jpg">
+      <PackagePath>Assets\744.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\Logo.scale-240.jpg">
+      <PackagePath>Assets\Logo.scale-240.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\people.JPG">
+      <PackagePath>Assets\people.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\SmallLogo.scale-240.jpg">
+      <PackagePath>Assets\SmallLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\splash screen 11152.jpg">
+      <PackagePath>Assets\splash screen 11152.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\splash screen.JPG">
+      <PackagePath>Assets\splash screen.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\SplashScreen.scale-240.jpg">
+      <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\Square71x71Logo.scale-240.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\store 120.jpg">
+      <PackagePath>Assets\store 120.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\store.JPG">
+      <PackagePath>Assets\store.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\StoreLogo.scale-240.jpg">
+      <PackagePath>Assets\StoreLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\themes.JPG">
+      <PackagePath>Assets\themes.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\time-to-read-clock-reading-comprehension-learning-school-words-white-face-illustrating-importance-learn-35557290.jpg">
+      <PackagePath>Assets\time-to-read-clock-reading-comprehension-learning-school-words-white-face-illustrating-importance-learn-35557290.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\WideLogo.scale-240.jpg">
+      <PackagePath>Assets\WideLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\button512x512 %281%29.png">
+      <PackagePath>Assets\button512x512 %281%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\save button.png">
+      <PackagePath>Assets\save button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\view button.png">
+      <PackagePath>Assets\view button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\Assets\tagore.txt">
+      <PackagePath>Assets\tagore.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.xr.xml">
+      <PackagePath>Time 2 Read.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\daru.xbf">
+      <PackagePath>daru.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Love_Page.xbf">
+      <PackagePath>Love_Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page0.xbf">
+      <PackagePath>Page0.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page1.xbf">
+      <PackagePath>Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page10.xbf">
+      <PackagePath>Page10.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page11.xbf">
+      <PackagePath>Page11.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page13.xbf">
+      <PackagePath>Page13.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page14.xbf">
+      <PackagePath>Page14.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page15.xbf">
+      <PackagePath>Page15.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page16.xbf">
+      <PackagePath>Page16.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page2.xbf">
+      <PackagePath>Page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page3.xbf">
+      <PackagePath>Page3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page4.xbf">
+      <PackagePath>Page4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page5.xbf">
+      <PackagePath>Page5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page6.xbf">
+      <PackagePath>Page6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page7.xbf">
+      <PackagePath>Page7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page8.xbf">
+      <PackagePath>Page8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page9.xbf">
+      <PackagePath>Page9.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

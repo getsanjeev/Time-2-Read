@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Time_2_Read.Love_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <Button x:Name="heart" Content="From My Heart"  Width="380" Click="heart_Click"   />
+            <Button x:Name="promise" Content="I Promise"  Width="380" Click="promise_Click"    />
+            <Button x:Name="you" Content="You Are My Tomorrow"   Width="380" Click="you_Click"    />
+            <Button x:Name="tome" Content="You Mean A Lot To Me"   Width="380" Click="tome_Click" />
+            <Button x:Name="last" Content="At Last"   Width="380" Click="last_Click"  />
+            
+            
+            
+            
+            
+            
+        </StackPanel>
+    </Grid>
+</Page>

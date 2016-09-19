@@ -1,0 +1,205 @@
+ StreamReader alpha = new StreamReader("tagore.txt");
+            string poem = alpha.ReadToEnd();
+            Frame.Navigate(typeof(Page9), poem);
+
+Farewell
+I have got my leave. Bid me farewell, my brothers!
+I bow to you all and take my departure.
+Here I give back the keys of my door
+---and I give up all claims to my house.
+I only ask for last kind words from you.
+We were neighbors for long,
+but I received more than I could give.
+Now the day has dawned
+and the lamp that lit my dark corner is out.
+A summons has come and I am ready for my journey.
+
+Friend
+Art thou abroad on this stormy night
+on thy journey of love, my friend?
+The sky groans like one in despair.
+I have no sleep tonight.
+Ever and again I open my door and look out on
+the darkness, my friend!
+I can see nothing before me.
+I wonder where lies thy path!
+By what dim shore of the ink-black river,
+by what far edge of the frowning forest,
+through what mazy depth of gloom art thou threading
+thy course to come to me, my friend?
+
+
+Sleep
+In the night of weariness
+let me give myself up to sleep without struggle,
+resting my trust upon thee.
+Let me not force my flagging spirit into a poor preparation for thy worship.
+It is thou who drawest the veil of night upon the tired eyes of the day
+to renew its sight in a fresher gladness of awakening.
+
+
+Lamp of Love
+Light, oh where is the light?
+Kindle it with the burning fire of desire!
+There is the lamp but never a flicker of a flame---is such thy fate, my heart?
+Ah, death were better by far for thee!
+Misery knocks at thy door,
+and her message is that thy lord is wakeful,
+and he calls thee to the love-tryst through the darkness of night.
+The sky is overcast with clouds and the rain is ceaseless.
+I know not what this is that stirs in me---I know not its meaning.
+A moment's flash of lightning drags down a deeper gloom on my sight,
+and my heart gropes for the path to where the music of the night calls me.
+Light, oh where is the light!
+Kindle it with the burning fire of desire!
+It thunders and the wind rushes screaming through the void.
+The night is black as a black stone.
+Let not the hours pass by in the dark.
+Kindle the lamp of love with thy life.
+
+
+
+Prisoner
+`Prisoner, tell me, who was it that bound you?'
+`It was my master,' said the prisoner.
+`I thought I could outdo everybody in the world in wealth and power,
+and I amassed in my own treasure-house the money due to my king.
+When sleep overcame me I lay upon the bed that was for my lord,
+and on waking up I found I was a prisoner in my own treasure-house.'
+`Prisoner, tell me, who was it that wrought this unbreakable chain?'
+It was I,' said the prisoner,who forged this chain very carefully.
+I thought my invincible power would hold the world captive
+leaving me in a freedom undisturbed.
+Thus night and day I worked at the chain
+with huge fires and cruel hard strokes.
+When at last the work was done
+and the links were complete and unbreakable,
+I found that it held me in its grip.'
+
+
+
+Free Love
+By all means they try to hold me secure who love me in this world.
+But it is otherwise with thy love which is greater than theirs,
+and thou keepest me free.
+Lest I forget them they never venture to leave me alone.
+But day passes by after day and thou art not seen.
+If I call not thee in my prayers, if I keep not thee in my heart,
+thy love for me still waits for my love.
+
+
+Only Thee
+That I want thee, only thee---let my heart repeat without end.
+All desires that distract me, day and night,
+are false and empty to the core.
+As the night keeps hidden in its gloom the petition for light,
+even thus in the depth of my unconsciousness rings the cry
+---`I want thee, only thee'.
+As the storm still seeks its end in peace
+when it strikes against peace with all its might,
+even thus my rebellion strikes against thy love
+and still its cry is
+---`I want thee, only thee'.
+
+
+Beggarly Heart
+When the heart is hard and parched up,
+come upon me with a shower of mercy.
+When grace is lost from life,
+come with a burst of song.
+When tumultuous work raises its din on all sides shutting me out from
+beyond, come to me, my lord of silence, with thy peace and rest.
+When my beggarly heart sits crouched, shut up in a corner,
+break open the door, my king, and come with the ceremony of a king.
+When desire blinds the mind with delusion and dust, O thou holy one,
+thou wakeful, come with thy light and thy thunder.
+
+
+
+
+Old and New
+Thou hast made me known to friends whom I knew not.
+Thou hast given me seats in homes not my own.
+Thou hast brought the distant near and made a brother of the stranger.
+I am uneasy at heart when I have to leave my accustomed shelter;
+I forget that there abides the old in the new,
+and that there also thou abidest.
+Through birth and death, in this world or in others,
+wherever thou leadest me it is thou, the same,
+the one companion of my endless life
+who ever linkest my heart with bonds of joy to the unfamiliar.
+When one knows thee, then alien there is none, then no door is shut.
+Oh, grant me my prayer that I may never lose
+the bliss of the touch of the one
+in the play of many.
+
+
+
+
+
+Stream of Life
+The same stream of life that runs through my veins night and day
+runs through the world and dances in rhythmic measures.
+It is the same life that shoots in joy through the dust of the earth
+in numberless blades of grass
+and breaks into tumultuous waves of leaves and flowers.
+It is the same life that is rocked in the ocean-cradle of birth
+and of death, in ebb and in flow.
+I feel my limbs are made glorious by the touch of this world of life.
+And my pride is from the life-throb of ages dancing in my blood this moment.
+
+
+
+
+Lost Star
+When the creation was new and all the stars shone in their first
+splendor, the gods held their assembly in the sky and sang
+`Oh, the picture of perfection! the joy unalloyed!'
+But one cried of a sudden
+---`It seems that somewhere there is a break in the chain of light
+and one of the stars has been lost.'
+The golden string of their harp snapped,
+their song stopped, and they cried in dismay
+---`Yes, that lost star was the best,
+she was the glory of all heavens!'
+From that day the search is unceasing for her,
+and the cry goes on from one to the other
+that in her the world has lost its one joy!
+Only in the deepest silence of night the stars smile
+and whisper among themselves
+---`Vain is this seeking! unbroken perfection is over all!'
+
+
+
+
+Death
+O thou the last fulfillment of life,
+Death, my death, come and whisper to me!
+Day after day I have kept watch for thee;
+for thee have I borne the joys and pangs of life.
+All that I am, that I have, that I hope and all my love
+have ever flowed towards thee in depth of secrecy.
+One final glance from thine eyes
+and my life will be ever thine own.
+The flowers have been woven
+and the garland is ready for the bridegroom.
+After the wedding the bride shall leave her home
+and meet her lord alone in the solitude of night.
+
+
+
+
+Love
+Until I found you,
+I wrote verse, drew pictures,
+And, went out with friends
+For walks…
+Now that I love you,
+Curled like an old mongrel
+My life lies, content,
+In you….
+(From Summer in Calcutta)
+
+
+
+

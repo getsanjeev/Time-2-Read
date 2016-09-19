@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Time_2_Read.daru"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <Button x:ConnectionId='1' Name="war" Content="At War"                     Width="380" Margin="10,0,0,0"/>
+            <Button x:ConnectionId='2' Name="hawk" Content="Hawk"                      Width="380" Margin="10,0,0,0"/>
+            
+        </StackPanel>
+    </Grid>
+</Page>
+

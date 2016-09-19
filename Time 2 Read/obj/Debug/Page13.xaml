@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Time_2_Read.Page13"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ScrollViewer>
+        <StackPanel Margin="5">
+            <Button x:ConnectionId='1' Name="song" Content="Songs to Myrtilla"                      Width="380" />
+            <Button x:ConnectionId='2' Name="motion" Content="Perfect thy Motion"                        Width="380"/>
+            <Button x:ConnectionId='3' Name="alpha" Content="Phaethon"                       Width="380"/>
+            <Button x:ConnectionId='4' Name="hero" Content="To a Hero-Worshipper"                      Width="380"/>
+            <Button x:ConnectionId='5' Name="est" Content="Estelle"                     Width="380"/>
+            <Button x:ConnectionId='6' Name="jacet" Content="Hic Jacet"                       Width="380"/>
+            <Button x:ConnectionId='7' Name="bird" Content="The Blue Bird"                      Width="380"/>
+            <Button x:ConnectionId='8' Name="reve" Content="Revelation"                      Width="380"/>
+            <Button x:ConnectionId='9' Name="bridge" Content="Bridge Of The Fire"                        Width="380"/>
+            <Button x:ConnectionId='10' Name="sri" Content="Sri Krishna"                     Width="380"/>
+            <Button x:ConnectionId='11' Name="call" Content="The Silver Call"                      Width="380"/>
+            <Button x:ConnectionId='12' Name="god" Content="A God's Labour"                     Width="380"/>
+            
+        </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

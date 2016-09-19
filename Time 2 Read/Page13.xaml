@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="Time_2_Read.Page13"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ScrollViewer>
+        <StackPanel Margin="5">
+            <Button Name="song" Content="Songs to Myrtilla" Tapped="song_Tapped" Width="380" />
+            <Button Name="motion" Content="Perfect thy Motion" Tapped="motion_Tapped" Width="380"/>            <Button Name="alpha" Content="Phaethon" Tapped="alpha_Tapped" Width="380"/>
+            <Button Name="hero" Content="To a Hero-Worshipper" Tapped="hero_Tapped" Width="380"/>
+            <Button Name="est" Content="Estelle" Tapped="est_Tapped" Width="380"/>
+            <Button Name="jacet" Content="Hic Jacet" Tapped="jacet_Tapped" Width="380"/>
+            <Button Name="bird" Content="The Blue Bird" Tapped="bird_Tapped" Width="380"/>
+            <Button Name="reve" Content="Revelation" Tapped="reve_Tapped" Width="380"/>
+            <Button Name="bridge" Content="Bridge Of The Fire" Tapped="bridge_Tapped" Width="380"/>
+            <Button Name="sri" Content="Sri Krishna" Tapped="sri_Tapped" Width="380"/>
+            <Button Name="call" Content="The Silver Call" Tapped="call_Tapped" Width="380"/>
+            <Button Name="god" Content="A God's Labour" Tapped="god_Tapped" Width="380"/>
+            
+        </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

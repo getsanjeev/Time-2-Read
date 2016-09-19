@@ -1,0 +1,316 @@
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\App.xbf
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page0.xbf
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.xr.xml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.exe
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.pdb
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\resources.pri
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\AppxManifest.xml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.build.appxrecipe
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\App.g.i.cs
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\App.g.cs
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.i.cs
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.cs
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\XamlTypeInfo.g.cs
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\App.xaml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\App.xbf
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\XamlSaveStateFile.xml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page0.xaml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page0.xbf
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.exe
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.pdb
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml.intermediate
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles.intermediate
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles.intermediate
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles.intermediate
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt.intermediate
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\ProjectArchitectures.txt
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page1.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page2.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page3.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page4.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page5.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page6.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page7.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page1.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page2.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page3.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page4.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page5.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page6.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page7.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page1.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page2.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page3.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page4.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page5.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page6.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page7.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page8.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page9.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page8.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page9.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page8.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page9.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\Page10.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page10.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\Page10.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\bin\Debug\daru.xbf
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\daru.g.i.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\daru.g.cs
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\daru.xaml
+C:\Users\getsa\documents\visual studio 2015\Projects\Time 2 Read\Time 2 Read\obj\Debug\daru.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\App.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\daru.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page0.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page1.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page10.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page2.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page3.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page4.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page5.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page6.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page7.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page8.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page9.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.xr.xml
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.exe
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.pdb
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\resources.pri
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\AppxManifest.xml
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.build.appxrecipe
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\App.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\App.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\daru.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\daru.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\XamlTypeInfo.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\App.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\daru.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page0.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page1.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page10.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page2.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page3.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page4.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page5.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page6.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page7.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page8.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page9.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\App.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\daru.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page0.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page1.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page10.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page2.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page3.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page4.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page5.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page6.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page7.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page8.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page9.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\XamlSaveStateFile.xml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.exe
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.pdb
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml.intermediate
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles.intermediate
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles.intermediate
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles.intermediate
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt.intermediate
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\ProjectArchitectures.txt
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page11.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page11.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page11.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page11.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page11.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page13.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page13.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page13.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page13.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page13.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page14.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page14.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page15.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page15.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page16.g.i.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page16.g.cs
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page15.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page15.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page14.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page15.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\bin\Debug\Page16.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page14.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page16.xaml
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page14.xbf
+F:\12 feb\Time 2 Read\Time 2 Read\obj\Debug\Page16.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\App.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\daru.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page0.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page1.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page10.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page11.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page13.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page14.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page15.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page16.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page2.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page3.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page4.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page5.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page6.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page7.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page8.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Page9.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.xr.xml
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.exe
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.pdb
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\resources.pri
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\AppxManifest.xml
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Time 2 Read.build.appxrecipe
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\App.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\App.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\daru.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\daru.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page0.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page1.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page10.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page11.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page11.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page13.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page13.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page14.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page14.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page15.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page15.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page16.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page16.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page2.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page3.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page4.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page5.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page6.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page7.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page8.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page9.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\XamlTypeInfo.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\App.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\daru.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page0.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page1.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page10.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page11.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page13.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page14.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page15.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page16.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page2.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page3.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page4.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page5.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page6.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page7.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page8.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page9.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\App.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\daru.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page0.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page1.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page10.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page11.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page13.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page14.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page15.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page16.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page2.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page3.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page4.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page5.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page6.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page7.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page8.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Page9.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\XamlSaveStateFile.xml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.exe
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Time 2 Read.pdb
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\priconfig.xml.intermediate
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\layout.resfiles.intermediate
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\resources.resfiles.intermediate
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\pri.resfiles.intermediate
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\qualifiers.txt.intermediate
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\ProjectArchitectures.txt
+F:\First WP App\Time 2 Read\Time 2 Read\bin\Debug\Love_Page.xbf
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Love_Page.g.i.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Love_Page.g.cs
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Love_Page.xaml
+F:\First WP App\Time 2 Read\Time 2 Read\obj\Debug\Love_Page.xbf

@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Time_2_Read.Page10"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Time_2_Read"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Margin="5">
+        <Button Name="blood" Content="Blood" Tapped="blood_Tapped" Width="380"/>
+            <Button Name="intro" Content="An Introduction" Tapped="intro_Tapped" Width="380" />
+            <Button Name="glass" Content="The Looking Glass" Tapped="glass_Tapped" Width="380"/>
+            <Button Name="the" Content="The Maggots" Tapped="the_Tapped" Width="380"/>
+            <Button Name="kris" Content="Krishna" Tapped="kris_Tapped" Width="380"/>
+            <Button Name="age" Content="The Stone Age" Tapped="age_Tapped" Width="380"/>
+            <Button Name="dance" Content="The Dance Of The Eunuchs" Tapped="dance_Tapped" Width="380"/>
+            
+
+
+
+
+
+
+
+
+        </StackPanel>
+    </Grid>
+</Page>
